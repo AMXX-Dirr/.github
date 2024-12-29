@@ -1,6 +1,6 @@
 <div>
 <h1 align="center"><p></p>AMXX by Dirr - Paczki & Wsparcie AMXX - CS 1.6<p></p></h1>
-<img src="LINK SCREEN"></img>
+<h1 align="center"><img src="LINK SCREEN"></img></h1>
 
 -------
 
