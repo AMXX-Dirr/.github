@@ -34,11 +34,11 @@ oraz dodanie gotowej paczki na serwer zleceniodawcy.</p>
 
 <p align="left">Za mikropłatności oferuję także:</p>
 
-<p align="left">– Opiekę techniczną serwerów CS 1.6 & CS 2
-– Wgranie gotowej paczki na serwer i konfigurację (cvary)
-– Uruchomienie forum na silniku Invision Community
-– Wgranie i uruchomienie strony WWW SKLEPU CS
-– Wgranie i uruchomienie strony WWW AMXBANS
+<p align="left">– Opiekę techniczną serwerów CS 1.6 & CS 2<br>
+– Wgranie gotowej paczki na serwer i konfigurację (cvary)<br>
+– Uruchomienie forum na silniku Invision Community<br>
+– Wgranie i uruchomienie strony WWW SKLEPU CS<br>
+– Wgranie i uruchomienie strony WWW AMXBANS<br>
 – Usługi prac technicznych na forum na silniku Invision Community</p>
 
 
