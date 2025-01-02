@@ -46,13 +46,13 @@ Za mikropłatności oferuję także:
 
 <b>5. Kontakt</b>
 
-Discord: https://discord.gg/furrruUw<br>
+Discord: https://discord.gg/7SnYHJMF<br>
 Steam: https://steamcommunity.com/profiles/76561198079161044/</p>
 
 
 -------
 
   
-<p align="center"><a href="https://discord.gg/furrruUw"><img src="https://discord.com/api/guilds/1321491683401273406/widget.png?style=banner1"></a></p>
+<p align="center"><a href="https://discord.gg/7SnYHJMF"><img src="https://discord.com/api/guilds/1321491683401273406/widget.png?style=banner1"></a></p>
 
 </div>
