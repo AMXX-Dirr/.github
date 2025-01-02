@@ -7,46 +7,46 @@
 <h3 align="center">OFERTA</h3>
 
 <p align="left">Oferuje zbudowanie paczki na serwer CS 1.6 zrobioną na gotowych pluginach i rozwiązaniach dostępnych w sieci oraz ich edycję pod potrzeby zleceniodawcy tak zwane "edytowane sklejki" 
-oraz dodanie gotowej paczki na serwer zleceniodawcy.</p>
+oraz dodanie gotowej paczki na serwer zleceniodawcy.
 
-<p align="left">Mody, takie jak: FFA, DD2, 4FUN, AIM MAP, 3-4-5 MAPS, COD MOD, DIABLO MOD, ZOMBIE PLAGUE, BIOHAZARD, PAINTBALL, DEATCHMATCH, ONLY AWP, JAILBREAK, ONLY HS, BF2</p>
+Mody, takie jak: FFA, DD2, 4FUN, AIM MAP, 3-4-5 MAPS, COD MOD, DIABLO MOD, ZOMBIE PLAGUE, BIOHAZARD, PAINTBALL, DEATCHMATCH, ONLY AWP, JAILBREAK, ONLY HS, BF2
 
-<p align="left">– Każdy plugin i cvar ma dodany opis za co odpowiada.<br>
-– Nie dodaje do paczki pluginów, które nie posiadają pliku z kodem źródłowym SMA.<br>
-- Klasy i perki do COD MOD pisze od zera</p>
+- Każdy plugin i cvar ma dodany opis za co odpowiada.<br>
+- Nie dodaje do paczki pluginów, które nie posiadają pliku z kodem źródłowym SMA.<br>
+- Klasy i perki do COD MOD pisze od zera nie korzystam z generatora. 
 
 
-<p align="left"><b>1. Koszty takiej paczki zaczynają się:</b></p>
+1. Koszty takiej paczki zaczynają się:
 
-<p align="left">100 zł - 150 zł*</p>
+100 zł - 150 zł*
 
-<p align="left">* Dokładna cena zależy od ilości czasu, który poświęcę przy budowie paczki, jak bardzo ma być rozbudowana, ile czasu spędzę nad edycją gotowych pluginów także płatne jest za poświęcony czas oraz edycję gotowców natomiast ceny są adekwatne do rodzaju oferty czyli niższe niż paczka z autorskimi pluginami pisanymi od zera.</p>
+* Dokładna cena zależy od ilości czasu, który poświęcę przy budowie paczki, jak bardzo ma być rozbudowana, ile czasu spędzę nad edycją gotowych pluginów także płatne jest za poświęcony czas oraz edycję gotowców natomiast ceny są adekwatne do rodzaju oferty czyli niższe niż paczka z autorskimi pluginami pisanymi od zera.
 
-<p align="left">Z racji, że powstały różne afery podpisywania się pod nie swoimi pluginami wyjaśnię, że jeśli edytuję plugin do paczki dodaje do nazwy autora "edycja Dirr" nie podpisuję się pod cudzymi pluginami.</p>
+Z racji, że powstały różne afery podpisywania się pod nie swoimi pluginami wyjaśnię, że jeśli edytuję plugin do paczki dodaje do nazwy autora "edycja Dirr" nie podpisuję się pod cudzymi pluginami.
 
-<p align="left"><b>2. Jak działam:</b></p>
+<b>2. Jak działam:</b>
 
-<p align="left">Najpierw tworzę listę pluginów do paczki oraz listę co trzeba edytować i wykonuję wszystko punkt po punkcie oraz eliminuje bugi na koniec sprawdzam error logi i eliminuję błędy.</p>
+Najpierw tworzę listę pluginów do paczki oraz listę co trzeba edytować i wykonuję wszystko punkt po punkcie oraz eliminuje bugi na koniec sprawdzam error logi i eliminuję błędy.
 
-<p align="left"><b>3. Czas wykonania</b></p>
+<b>3. Czas wykonania</b>
 
-<p align="left">Jeśli chodzi o czas wykonania paczki nie jestem w stanie go konkretnie określić zależy od tego, jak rozbudowana ma być paczka cały progres pracy zleceniodawca może sprawdzić na serwerze roboczym, gdzie będę wykonywał paczkę.</p>
+Jeśli chodzi o czas wykonania paczki nie jestem w stanie go konkretnie określić zależy od tego, jak rozbudowana ma być paczka cały progres pracy zleceniodawca może sprawdzić na serwerze roboczym, gdzie będę wykonywał paczkę.
 
-<p align="left"><b>4. Inne usługi</b></p>
+<b>4. Inne usługi</b>
 
-<p align="left">Za mikropłatności oferuję także:</p>
+Za mikropłatności oferuję także:
 
-<p align="left">– Opiekę techniczną serwerów CS 1.6 & CS 2<br>
+– Opiekę techniczną serwerów CS 1.6 & CS 2<br>
 – Wgranie gotowej paczki na serwer i konfigurację (cvary)<br>
 – Uruchomienie forum na silniku Invision Community<br>
 – Wgranie i uruchomienie strony WWW SKLEPU CS<br>
 – Wgranie i uruchomienie strony WWW AMXBANS<br>
-– Usługi prac technicznych na forum na silniku Invision Community</p>
+– Usługi prac technicznych na forum na silniku Invision Community
 
 
-<p align="left"><b>5. Kontakt</b></p>
+<b>5. Kontakt</b>
 
-<p align="left">Discord: https://discord.gg/furrruUw<br>
+Discord: https://discord.gg/furrruUw<br>
 Steam: https://steamcommunity.com/profiles/76561198079161044/</p>
 
 
