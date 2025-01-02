@@ -16,7 +16,7 @@ Mody, takie jak: FFA, DD2, 4FUN, AIM MAP, 3-4-5 MAPS, COD MOD, DIABLO MOD, ZOMBI
 - Klasy i perki do COD MOD pisze od zera nie korzystam z generatora. 
 
 
-1. Koszty takiej paczki zaczynają się:
+<b>1. Koszty takiej paczki zaczynają się:</b>
 
 100 zł - 150 zł*
 
