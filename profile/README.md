@@ -18,7 +18,7 @@ Mody, takie jak: FFA, DD2, 4FUN, AIM MAP, 3-4-5 MAPS, COD MOD, DIABLO MOD, ZOMBI
 
 <b>1. Koszty takiej paczki zaczynają się od:</b>
 
-80 zł - 150 zł*
+50 zł - 150 zł*
 
 * Dokładna cena zależy od ilości czasu, który poświęcę przy budowie paczki, jak bardzo ma być rozbudowana, ile czasu spędzę nad edycją gotowych pluginów także płatne jest za poświęcony czas oraz edycję gotowców natomiast ceny są adekwatne do rodzaju oferty czyli niższe niż paczka z autorskimi pluginami pisanymi od zera.
 
